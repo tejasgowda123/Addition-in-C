@@ -5,6 +5,7 @@ void main
   int a,b,c;
   printf("\nEnter the A and B : ");
   scanf("%d%d",&a,&b);
+  //calculating value of c
   c=a+b;
   printf("The Sum two no id : %d",c);
   getch();
